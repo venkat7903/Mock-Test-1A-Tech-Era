@@ -1,0 +1,28 @@
+.course-detail-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+}
+
+.course-details {
+  width: 90%;
+  max-width: 1140px;
+  display: flex;
+}
+
+.image {
+}
+
+.name-desc-container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.desc {
+  font-size: 20px;
+  line-height: 2;
+}
